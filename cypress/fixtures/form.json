@@ -1,0 +1,7 @@
+{
+    "email" : "[name='shippingAddress.custom_email']",
+    "firstName": "[name='shippingAddress.firstname']",
+    "lastName" :"[name='shippingAddress.lastname']",
+    "dni" : "[name='shippingAddress.custom_attributes.dni']",
+    "phone": "[name='shippingAddress.custom_attributes.celular']"
+}

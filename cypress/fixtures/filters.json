@@ -1,0 +1,12 @@
+{
+    "price0A100k" : "[data-value='0_1000000'] > a",
+    "price100kA200k" : "[data-value='1000000_2000000'] > a",
+    "price200kA300k" : "[data-value='2000000_3000000'] > a",
+    "price300kA400k": "[data-value='3000000_4000000'] > a",
+
+    "gb32" : "[data-value='310'] > a",
+    "gb64" : "[data-value='349'] > a",
+    "gb128" : "[data-value='802'] > a",
+    "gb512" : "[data-value='823'] > a)",
+    "gb256" : "[data-value='916'] > a"
+}
